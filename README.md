@@ -1,6 +1,6 @@
 # proapps_mobile_mobile
 
-A new Flutter project.
+LOT Mobile Apps
 
 ## Getting Started
 
